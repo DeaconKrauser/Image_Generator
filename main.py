@@ -20,7 +20,7 @@ print(f"A imagem foi salva em {filename}.")
 
 # def generate_and_save_image(prompt):
 #     response = openai.Image.create(
-#         api_key='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',
+#         api_key='your_api_key',
 #         prompt=prompt,
 #         n=1,
 #         size="1024x1024"
